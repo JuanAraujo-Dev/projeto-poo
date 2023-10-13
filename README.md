@@ -1,4 +1,4 @@
-# projeto de urna eletronica
+# projeto de urna eletrônica 
 - Juan Araujo
 - Luiz Francisco
 - Maria Paula
